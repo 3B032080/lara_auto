@@ -1,0 +1,9 @@
+{
+    "name": "aloi/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "Aloi\\LaraAuto\\": "src/"
+        }
+    },
+    "require": {}
+}
