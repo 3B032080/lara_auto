@@ -1,8 +1,15 @@
 {
-    "name": "aloi/lara_auto",
+  "name": "aloi/lara_auto",
+  "description": "autoload classes",
+  "authors": [
+    {
+      "name": "ÁÂªFÀM",
+      "email": "kasper1116.kh@gmail.com"
+    }
+  ],
     "autoload": {
         "psr-4": {
-            "Aloi\\LaraAuto\\": "src/"
+            "Demo\\": "./src/Demo"
         }
     },
     "require": {}
