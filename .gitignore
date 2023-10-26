@@ -1,0 +1,7 @@
+auto
+  /src
+  /public
+  /vendor
+     /composer
+     autoload.php
+  composer.json

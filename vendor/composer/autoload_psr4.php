@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Aloi\\LaraAuto\\' => array($baseDir . '/src'),
+    'Demo\\' => array($baseDir . '/src/Demo'),
 );
