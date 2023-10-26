@@ -6,3 +6,5 @@ auto
      /composer
      autoload.php
   composer.json
+
+  /log
