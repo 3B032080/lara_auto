@@ -12,5 +12,7 @@
             "Demo\\":"./src/Demo"
         }
     },
-    "require": {}
+  "require": {
+    "monolog/monolog": "^3.4"
+  }
 }
