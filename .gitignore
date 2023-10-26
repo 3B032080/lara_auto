@@ -2,6 +2,7 @@ auto
   /src
   /public
   /vendor
+  /.idea
      /composer
      autoload.php
   composer.json
